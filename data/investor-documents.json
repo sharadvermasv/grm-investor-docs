@@ -1,16 +1,20 @@
 [
   {
-    "title": "Notice of Postal Ballot",
+    "title": "Postal Ballot Notice dated 20th November, 2026",
     "category": "Corporate Announcements",
     "financialYear": "2026-2027",
-    "quarter": "Q1",
-    "date": "2026-11-23",
+    "quarter": "N/A",
+    "date": "2026-11-20",
     "fileUrl": "/investor-documents/261123081406_postal_ballot_notice_final.pdf",
     "fileName": "261123081406_postal_ballot_notice_final.pdf",
     "fileSize": "1.1 MB",
     "status": "published",
     "id": "inv-1795421659008",
-    "downloads": 0
+    "downloads": 0,
+    "displayDate": "20 Nov, 2026",
+    "createdAt": "2026-11-23T08:14:06.000Z",
+    "updatedAt": "2026-11-23T10:00:00.000Z",
+    "views": 0
   },
   {
     "id": "doc-grm-0001",
